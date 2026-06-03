@@ -1,0 +1,10 @@
+[
+  {
+    "id": "5d6dacfe-587d-40ef-a862-c22900a558ff",
+    "title": "Build KanFlow UI",
+    "description": "Set up the Swing board",
+    "priority": "HIGH",
+    "deadline": "2026-06-06",
+    "column": "TODO"
+  }
+]
