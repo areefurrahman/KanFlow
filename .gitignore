@@ -11,6 +11,9 @@ target/
 *.iws
 *.iml
 *.ipr
+*.class
+.idea/
+data/tasks.json
 
 ### Eclipse ###
 .apt_generated
@@ -36,3 +39,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+
+
