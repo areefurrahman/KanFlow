@@ -37,10 +37,10 @@ course at the University of Central Punjab.
 
 ## Design Principles Applied
 
-- **SOLID** — Single responsibility per class (Task, JsonStorage, BoardPanel each do one thing)
-- **DRY** — TaskDialog handles both Add and Edit modes
-- **Refactoring** — Extract Class (ColumnPanel), Extract Function (validateTitle), Encapsulate Variable (Task fields private with getters/setters)
-- **Design Patterns** — Observer (CardClickListener interface), Strategy (SortOption enum drives sort behavior)
+- **SOLID :** Single responsibility per class (Task, JsonStorage, BoardPanel each do one thing)
+- **DRY :** TaskDialog handles both Add and Edit modes
+- **Refactoring :** Extract Class (ColumnPanel), Extract Function (validateTitle), Encapsulate Variable (Task fields private with getters/setters)
+- **Design Patterns :** Observer (CardClickListener interface), Strategy (SortOption enum drives sort behavior)
 
 ---
 
@@ -63,6 +63,5 @@ mvn test
 ---
 
 ## Author
-
 **Areef ur Rahman**  
-BS Software Engineering — University of Central Punjab
+BS Software Engineering, University of Central Punjab
